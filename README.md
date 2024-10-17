@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hi, welcome to my profile 👋 </h1>
+  <p> 📱 Phone: +506 8316-6771</p>
+  <p> 📧 Email: L.felipe200082@gmail.com</p>
+</div>
 
-<!--
-**Lfelipe24/Lfelipe24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 💻 FrontEnd and Backend developer
+- 📱 Experience in mobile development 
+- 🚗 Passionate about cars
+- 📚 constant learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- [React](https://es.react.dev/)
+- [NextJs](https://nextjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Python](https://www.python.org/)
+- [Amazon Web Services](https://aws.amazon.com/es/console/)
+- [GIT](https://git-scm.com/)
+
+
+  
