@@ -11,7 +11,7 @@
 - 🚗 Passionate about cars
 - 📚 constant learning
 
-## Tech Stack
+## Main Tech Stack
 
 - [React](https://es.react.dev/)
 - [NextJs](https://nextjs.org/)
